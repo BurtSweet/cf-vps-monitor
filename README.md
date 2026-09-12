@@ -21,7 +21,6 @@ CF VPS Monitor 是一个轻量 VPS 探针面板，使用 Cloudflare Workers 承�
 <img width="960" height="540" alt="cf-vps-monitor-promo-full-mobile" src="https://github.com/user-attachments/assets/78a5c78b-143c-4874-aa6e-4dbe17c3597d" />
 
 
-
 ## 架构
 
 | 目录 | 说明 |
